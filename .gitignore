@@ -1,0 +1,7 @@
+data/
+*.log
+__pycache__/
+*.pyc
+access_token.txt
+app_credentials.txt
+long_lived_token.txt
